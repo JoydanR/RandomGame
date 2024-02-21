@@ -1,5 +1,6 @@
-
-
+'''
+Joydan Rowley
+'''
 import random
 
 def roll():
